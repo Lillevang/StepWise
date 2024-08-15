@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+</head>
+<body>
+    <h1>{{ .Title }}</h1>
+    <div class="overview">
+        {{ .Content }}
+        <div class="steps">
+            {{ range $index, $page := .Pages }}
+            <div class="step">
+                <h2>{{ $page.Title }}</h2>
+                <p>{{ $page.Params.description }}</p>
+                <a href="{{ $page.RelPermalink }}">Read more</a>
+            </div>
+            {{ if lt (add $index 1) (len .Pages) }}
+            <div class="arrow">→</div>
+            {{ end }}
+            {{ end }}
+        </div>
+    </div>
+</body>
+</html>
+

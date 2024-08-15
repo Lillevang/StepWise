@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process Overview on StepWise</title>
+    <link>https://Lillevang.github.io/StepWise/</link>
+    <description>Recent content in Process Overview on StepWise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://Lillevang.github.io/StepWise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step 1: Initial Setup</title>
+      <link>https://Lillevang.github.io/StepWise/step1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Lillevang.github.io/StepWise/step1/</guid>
+      <description>Step 1: Initial Setup Here are the details for the initial setup process. You can include additional information, code snippets, or links here.
+ Task 1: Install required software. Task 2: Set up the environment.  Back to process overview</description>
+    </item>
+    
+    <item>
+      <title>Step 2: Getting going</title>
+      <link>https://Lillevang.github.io/StepWise/step2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Lillevang.github.io/StepWise/step2/</guid>
+      <description>Step 1: Momentum Setup Here are the details for the next step of the process. You can include additional information, code snippets, or links here.
+ Task 1: Install required software. Task 2: Set up the environment.  Back to process overview</description>
+    </item>
+    
+    <item>
+      <title>Step 3: Getting done</title>
+      <link>https://Lillevang.github.io/StepWise/step3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Lillevang.github.io/StepWise/step3/</guid>
+      <description>Step 3: Initial Setup Detailed content goes here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Step 4: Polishing</title>
+      <link>https://Lillevang.github.io/StepWise/step4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Lillevang.github.io/StepWise/step4/</guid>
+      <description>Step 4: Polishing Detailed content goes here&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Wrapping up</title>
+      <link>https://Lillevang.github.io/StepWise/done/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Lillevang.github.io/StepWise/done/</guid>
+      <description>Step 4: Wrapping up Detailed content goes here&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
